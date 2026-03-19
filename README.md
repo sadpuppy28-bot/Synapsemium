@@ -1,4 +1,4 @@
-<img width="756" height="361" alt="{1866D9F6-65FF-4042-BF7C-77A08617BF5A}" src="https://github.com/user-attachments/assets/9fd7d09f-6edb-4816-ade1-1e7131b96ddc" /># Synapsemium
+# Synapsemium
 this project just IDE Real-Time for Roblox.
 
 we just using XENO-API for this project so. this is safe!
